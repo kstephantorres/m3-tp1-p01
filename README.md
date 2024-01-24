@@ -2,7 +2,7 @@
 
 _**PUNTO 1**_
 
-## Tecnologías Utilizadas ⚙
+## Tecnologías Utilizadas 🛠️
 
 - [React](https://es.react.dev/)
 - [Vite](https://vitejs.dev/)
@@ -31,16 +31,7 @@ npm run dev
 
 ## Despliegue 📦
 
-__
-
-## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
+_[Deploy en Netlify](https://m3-tp1-p1.netlify.app/)_
 
 ## Autor ✒️
 
