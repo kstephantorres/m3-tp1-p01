@@ -1,36 +1,37 @@
 # Trabajo Practico N º 1
 
-_**Punto 1**_
+_**PUNTO 1**_
+
+## Tecnologías Utilizadas ⚙
+
+- [React](https://es.react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 ## Comenzando 🚀
+
+_Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu máquina._
 
 _Clona el proyecto_
 ```
 git clone https://github.com/kstephantorres/m3-tp1-p01.git
 ``` 
 
-### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
+_Instala las dependencias_
 
 ```
-Da un ejemplo
+cd m3-tp1-p01
+npm install
 ```
 
-_Y repite_
-
+_Para ejecutar el proyecto en un entorno de desarrollo:_
 ```
-hasta finalizar
+npm run dev
 ```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
 
 ## Despliegue 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+__
 
 ## Construido con 🛠️
 
