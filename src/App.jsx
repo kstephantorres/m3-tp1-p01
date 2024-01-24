@@ -1,10 +1,11 @@
 import './App.css'
-import Saludo from './components/Saludo'
+import Footer from './components/Footer'
+import Main from './components/Saludo'
 
 function App() {
 
   return (
-    <Saludo></Saludo>
+    <Main></Main>
   )
 }
 

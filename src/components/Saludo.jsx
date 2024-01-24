@@ -1,10 +1,17 @@
+import Footer from "./Footer";
 
-const Saludo = () => {
+const Main = () => {
     return (
-        <h1>
+        <div className="bg-primary min-h-screen flex flex-col">
+            <div className="grow flex items-center justify-center">
+            <h1 className="text-7xl font-bold text-l-complement text-center ">
             Hello world!!!
-        </h1>
+            </h1>
+            </div>
+            <Footer></Footer>
+        </div>
+        
     );
 };
 
-export default Saludo;
+export default Main;

@@ -6,7 +6,7 @@ _**Punto 1**_
 
 _Clona el proyecto_
 ```
-git clone www.githug.com
+git clone https://github.com/kstephantorres/m3-tp1-p01.git
 ``` 
 
 ### Instalación 🔧
